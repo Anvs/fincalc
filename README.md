@@ -1,0 +1,2 @@
+# fincalc
+For education
